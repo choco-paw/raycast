@@ -1,3 +1,5 @@
+-- abey ben malım aq heralde
+getgenv().SCRIPT_KEY = "KEYLESS" -- KEYLESS AMK KEYLESS
 if getgenv().reykest then
     return
 end
