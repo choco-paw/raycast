@@ -1,12 +1,10 @@
--- abey ben malım aq heralde
-getgenv().SCRIPT_KEY = "KEYLESS" -- KEYLESS AMK KEYLESS
 if getgenv().reykest then
     return
 end
 getgenv().reykest = true
 
 local gameScripts = {
-    [703124385] = "https://api.jnkie.com/api/v1/luascripts/public/a921807b320a8dcc46537a86ee9f7578dc41af19c759204ee8570352f58cdfe8/download"
+    [703124385] = "https://s.pufus.win/ZrtxT3" -- Tower of hell
 }
 
 local scriptUrl = gameScripts[game.PlaceId]
