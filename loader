@@ -4,7 +4,7 @@ end
 getgenv().reykest = true
 
 local gameScripts = {
-    [703124385] = "https://s.pufus.win/ZrtxT3" -- Tower of hell
+    [1962086868] = "https://s.pufus.win/ZrtxT3" -- Tower of hell
 }
 
 local scriptUrl = gameScripts[game.PlaceId]
@@ -17,4 +17,4 @@ else
         Text = "Game not supported!",
         Duration = 5
     })
-end
+end -- Pro syntax bilgisi 😭🙏
